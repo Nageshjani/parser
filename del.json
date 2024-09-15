@@ -1,0 +1,94 @@
+{
+    "div": {
+        "div": {
+            "h2": {
+                "_text": "Impact of enterprise",
+                "span": {
+                    "_text": "AI statistically"
+                }
+            },
+            "p": {
+                "_text": "Businesses worldwide are upscaling with Artificial Intelligence, and so should you!"
+            }
+        },
+        "ul": {
+            "li": [
+                {
+                    "h3": {
+                        "_text": "$20 Billion"
+                    },
+                    "p": {
+                        "span": {
+                            "_text": "Estimated value of generative AI market annual growth by the end of the decade \u2013"
+                        },
+                        "a": {
+                            "span": {
+                                "_text": "Statista"
+                            }
+                        }
+                    }
+                },
+                {
+                    "h3": {
+                        "_text": "54% Companies"
+                    },
+                    "p": {
+                        "span": {
+                            "_text": "Integrated generative AI in their business process by the end of 2023 \u2013"
+                        },
+                        "a": {
+                            "span": {
+                                "_text": "PwC"
+                            }
+                        }
+                    }
+                },
+                {
+                    "h3": {
+                        "_text": "$2.6 - $4.4 Trillion"
+                    },
+                    "p": {
+                        "span": {
+                            "_text": "Is the projected value of the AI market in the US alone by 2026 \u2013"
+                        },
+                        "a": {
+                            "span": {
+                                "_text": "PRNews"
+                            }
+                        }
+                    }
+                },
+                {
+                    "h3": {
+                        "_text": "$288.3 Billion"
+                    },
+                    "p": {
+                        "span": {
+                            "_text": "Is the projected value of the AI market in the US alone by 2026 \u2013"
+                        },
+                        "a": {
+                            "span": {
+                                "_text": "PRNews"
+                            }
+                        }
+                    }
+                },
+                {
+                    "h3": {
+                        "_text": "10% -15%"
+                    },
+                    "p": {
+                        "span": {
+                            "_text": "Definite growth rate of the NLP market through the decade \u2013"
+                        },
+                        "a": {
+                            "span": {
+                                "_text": "Statista"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
